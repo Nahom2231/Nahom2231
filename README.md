@@ -19,8 +19,8 @@
 
 ### ⚡ About Me
 
-- 🔭 **Currently Building:** Enterprise fintech solutions and management systems.
-- 💼 **Primary Focus:** Clean Architecture, RESTful microservices & APIs, and responsive SPAs.
+- 🔭 **Currently Building:** Enterprise fintech solutions, case management platforms, and distributed systems.
+- 💼 **Primary Focus:** Clean Architecture, CQRS, RESTful microservices, and responsive SPAs.
 - 🛠️ **Tech Core:** C# (.NET Core / ASP.NET), Java (Spring Boot), TypeScript, React, and SQL databases.
 - 🌱 **Continuous Learning:** Cloud-native architecture (Docker, CI/CD pipelines) and distributed systems.
 - 💬 **Ask me about:** Backend system design, database modeling, and full-stack integration.
@@ -67,10 +67,12 @@
 | Project | Tech Stack | Highlights |
 | :--- | :--- | :--- |
 | **[Factoring Intelligence Platform](https://github.com/Nahom2231/factoring-sys)** | `Spring Boot` `React` `Vite` `PostgreSQL` | Full-stack financial platform designed to handle invoice factoring, credit risk calculations, and enterprise transactions. |
-| **[TMS - Transport & Management Suite](https://github.com/Nahom2231/TMSAPI)** | `ASP.NET Core` `C#` `TypeScript` `REST API` | Multi-tier management system featuring a decoupled modular backend (`tmscore` / `TMSAPI`) and a responsive frontend client (`tms-client-frontend`). |
-| **[CineFlow & CineFlow UI](https://github.com/Nahom2231/CineFlow)** | `C# .NET` `TypeScript` `Web API` | End-to-end media booking and schedule management platform with role-based access control and responsive client UI. |
-| **[EkubCircle](https://github.com/Nahom2231/EkubCircle)** | `C# .NET` `SQL` `Entity Framework` | Digital peer-to-peer rotational savings and credit association (ROSCA) system implementing automated payouts and ledger tracking. |
-| **[RentLink](https://github.com/Nahom2231/RentLink)** | `C#` `ASP.NET Core` `Database Systems` | Rental management platform connecting property owners and tenants with lease and payment lifecycle tracking. |
+| **[Livelihood Monitoring System](https://github.com/Nahom2231/Livelihood-Monitoring)** | `ASP.NET Core` `CQRS` `EF Core` `Angular` | Socioeconomic case management and beneficiary tracking platform with real-time financial analytics and reporting. |
+| **[RentLink — Tenancy Platform](https://github.com/Nahom2231/RentLink)** | `ASP.NET Core` `C#` `Clean Architecture` | Multi-role property lease and municipal regulatory tenancy management system with digital lease signing workflows. |
+| **[Training Management System (TMS)](https://github.com/Nahom2231/TMSAPI)** | `.NET 10` `C# 13` `TypeScript` `REST API` | Enterprise academic & course management suite composed of modular domain modeling (`tmscore`), REST API (`TMSAPI`), and client frontend (`tms-client-frontend`). |
+| **[Digital Banking Onboarding](https://github.com/Nahom2231/Fintech-Projects)** | `Java 21` `Spring Boot 3` `PostgreSQL` | Microservice handling digital customer onboarding, automated 6-digit OTP generation, and identity verification lifecycle. |
+| **[EkubCircle (ዕቁብ)](https://github.com/Nahom2231/EkubCircle)** | `.NET 8` `Angular` `PostgreSQL` | Digital peer-to-peer rotational savings and credit association (ROSCA) system implementing automated payouts and ledger tracking. |
+| **[CineFlow & CineFlow UI](https://github.com/Nahom2231/CineFlow)** | `.NET 10` `C#` `TypeScript` `Web API` | End-to-end cinema media booking and schedule management system with role-based access control and responsive client UI. |
 
 ---
 
